@@ -1,4 +1,5 @@
 
+#This code is meant to be used with data sets from the European CDC website. You can download the most recent data from the website, replace the file name in order to run this script. 
 f1=open('Apr29-total-covid-deaths-per-million.csv', 'r')
 L1=f1.readlines()
 f1.close
